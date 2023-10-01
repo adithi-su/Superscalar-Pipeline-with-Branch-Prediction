@@ -1,6 +1,6 @@
 // bpred.cpp
 // Implements the branch predictor class.
-// Part B solution -- Adithi S Upadhya
+// Adithi S Upadhya
 
 #include "bpred.h"
 #include <vector> //not needed here, switched to traditional array
